@@ -1,1 +1,1 @@
-# python-studies
+# python-exercises
